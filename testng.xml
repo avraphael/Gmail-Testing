@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="C:/Users/tonyr/IdeaProjects/Gmail_Testing/src/test/java">
+        <classes>
+            <class name="Account"></class>
+            <class name="SendEmail"></class>
+            <class name="ManageEmail"></class>
+            <class name="OpenEmail"></class>
+            <class name="Task"></class>
+            <class name="Calendar"></class>
+            <class name="Keep"></class>
+            <class name="Contacts"></class>
+        </classes>
+    </test>
+</suite>
