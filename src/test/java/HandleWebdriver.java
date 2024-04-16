@@ -16,7 +16,7 @@ public class HandleWebdriver {
     protected String username = "leaf0784";
     protected String password = "Back in 2017, I saw a horse on the side of the road.";
     protected String invalid = username + "invalid";
-    protected String email = username + "leaf0784@gmail.com";
+    protected String email = "leaf0784@gmail.com";
     protected String invalidEmail = invalid + "@gmail.com";
 
     public void resetTab() {
